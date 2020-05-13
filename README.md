@@ -1,6 +1,6 @@
-<h1># insurance-decision-tree-classifier</h1>
+<h3># insurance-decision-tree-classifier</h3>
 Predicts whether a person claims Insurance or not using Decision Tree Classifier from sklearn module
 
-<div><h2><b>DECISION TREE - </b></h2>
+<div><h4><b>DECISION TREE - </b></h4>
 <img src="Graph/graphviz.png">
 </div>
